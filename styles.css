@@ -1,18 +1,24 @@
 /*  your css code here. If applicable */
 .middle{
 	border:1px solid black;
-	border-spacing:px;
+	border-collapse:collapse;
+}
+.middle td{
+	border:1px solid black;
 	padding:1px;
+	text-align:left;
 }
 .green{
 	background-color:green;
+	color:white;
 }
 .blue{
 	background-color:blue;
+	color:white;
 }
 .center{
-	
+	text-align:center;
 }
 .right{
-	
+	text-align:right;
 }
